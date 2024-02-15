@@ -11,6 +11,11 @@ Install the required libraries using pip:
 ```python
 pip install customtkinter pytube
 ```
+or you can use
+```python
+pip install -r requirements.txt
+```
+
 ## Usage
 Run the script youtube_downloader.py.
 Input a valid YouTube link in the provided field.
