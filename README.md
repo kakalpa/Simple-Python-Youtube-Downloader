@@ -1,4 +1,4 @@
-# Youtube Downloader README
+# Youtube Downloader
 This Python script provides a graphical user interface (GUI) for downloading YouTube videos using the Pytube library. Users can input a YouTube link, get video information, select video quality, and download the video to their local system.
 
 ## Dependencies
